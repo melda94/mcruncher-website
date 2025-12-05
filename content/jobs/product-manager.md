@@ -1,10 +1,10 @@
 ---
-title: "Product Manager"
-date: 2023-11-14
-description: "We're seeking a Product Manager to drive our product strategy and roadmap"
-location: "San Francisco, CA (Hybrid)"
+title: "Apprentice - Software Engineer"
+date: 2025-12-05
+description: "This structured training program runs for 12 months. At the end of this program you will be offered a permanent position within the company to pursue a career in any of the available Software Engineering disciplines."
+location: "Cyberjaya, Malaysia"
 type: "Full-time"
-salary: "$130K - $180K"
+salary: "RM 1,500 - RM 2,000"
 layout: "job-single"
 ---
 
